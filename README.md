@@ -1,6 +1,6 @@
 # Handritsforrit
 
-Forrit sem að generatear handrit
+Forrit sem að framleiðir handrit
 
 ##Prototype 1
 ```
@@ -15,4 +15,5 @@ Senu object
 eitthvað sem að framleiðir "eventa"
 eitthvað sem að framleiðir "settningar"
 eitthvað sem að framðleiðir "lýsingar"
+????????????????
 ```
