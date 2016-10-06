@@ -1,11 +1,11 @@
-Hver
-Hvar
-Hvernig
-Hvert
-Hvers vegna
-Hví
-Hvers lags
-Hvenær
-Hvaðan
-Hvort
-Hvor
+[["Hver"],
+["Hvar"],
+["Hvernig"],
+["Hvert"],
+["Hvers vegna"],
+["Hví"],
+["Hvers lags"],
+["Hvenær"],
+["Hvaðan"],
+["Hvort"],
+["Hvors"]];
