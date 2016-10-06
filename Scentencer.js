@@ -16,6 +16,15 @@ Scentencer.prototype.enviromentDescription(){
 Scentencer.prototype.eventDescription(){
 
 };
-Scentencer.prototype.reaction(){
+Scentencer.prototype.reactionDescription(){
+
+};
+Scentencer.prototype.askQuestion(){
+
+};
+Scentencer.prototype.answerQuestion(){
+
+};
+Scentencer.prototype.talk(){
 
 };
