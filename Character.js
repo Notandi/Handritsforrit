@@ -12,5 +12,8 @@ Character.prototype.speak(){
 Character.prototype.affect(){
 
 };
+Character.prototype.react(){
+
+};
 
 
